@@ -1,4 +1,4 @@
 491-Circuit-App
 ===============
 
-Web application to teaech basic electrical concepts
+Web application to teach basic electrical concepts
